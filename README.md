@@ -2,7 +2,8 @@
 #### I am Frontend-developer
  I am a front-end developer with some skills to use in front-end web development such as:Html-css-js-bootstrap-React -talwind
 
-Skills:  * REACT 
+Skills:  
+*REACT 
 *JS 
 *HTML
 *css
